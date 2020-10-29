@@ -7,7 +7,7 @@ Few key things about me:
 
 - I'm a coding hobbist
 - Currently doing a Python DevOps Course
-- Ex [ESX](https://github.com/esx-framework) Devloper
+- Ex [ESX](https://github.com/esx-framework) Developer
 - Been coding for over 6 years now
 
 <br />
