@@ -19,7 +19,7 @@ You can find me on the following socials:
 - [LinkedIn](https://www.linkedin.com/in/hubert-swic/) <img alt="HubertSwic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 - [Instagram](https://www.instagram.com/deviljin112/) <img alt="Deviljin112 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 - Discord: `D3v#0802`
-- Github: ![GitHub followers](https://img.shields.io/github/followers/deviljin112?label=Follow%20me&style=flat-square)
+- Github: ![GitHub followers](https://img.shields.io/github/followers/deviljin112?label=Followers&style=flat-square)
 
 <br />
 
