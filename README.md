@@ -40,4 +40,3 @@ You can find me on the following socials:
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=deviljin112&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![D3v's github stats](https://github-readme-stats.vercel.app/api?username=deviljin112&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
