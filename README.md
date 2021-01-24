@@ -1,39 +1,47 @@
 # About me
 
 Hi I'm Hubert, also known as D3v or Deviljin112.
-<br />
+</br>
 
-Few key things about me:
+Little bit about me:
 
 - I'm a coding hobbist
 - Over 6 years of coding experience
-- Currently doing a Python DevOps Course @ Sparta Global
+- Python DevOps Engineer @ Sparta Global
 - Business Management Graduate
 - Ex [ESX](https://github.com/esx-framework) Developer
 
-<br />
+</br>
 
 ## Socials
 
-You can find me on the following socials:
+You can find me on:
 
-- [LinkedIn](https://www.linkedin.com/in/hubert-swic/) <img alt="HubertSwic | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-- Discord: `D3v#0112`
-- Github: ![GitHub followers](https://img.shields.io/github/followers/deviljin112?label=Followers&style=flat-square)
+- Github: ![GitHub followers](https://img.shields.io/github/followers/deviljin112?label=Followers&style=flat-square&logo=github)
+- [LinkedIn](https://www.linkedin.com/in/hubert-swic/): ![LinkedIn](https://img.shields.io/badge/Name-Hubert%20Swic-blue?style=flat-square&logo=linkedin)
+- Discord: ![Discord](https://img.shields.io/badge/Tag-Dev%230112-blue?style=flat-square&logo=discord)
 
-<br />
+</br>
 
-## Languages and Skills
+## Skills
 
-![Linux](https://img.shields.io/badge/OS-Ubuntu-yellow?style=flat-square&logo=ubuntu) ![Windows](https://img.shields.io/badge/OS-Win10-yellow?style=flat-square&logo=windows)
+Operating Systems:
 
-![VSC](https://img.shields.io/badge/Editor-VSC-yellow?style=flat-square&logo=visual-studio-code) ![Azure](https://img.shields.io/badge/Editor-Azure-yellow?style=flat-square&logo=microsoft-azure)
+![Linux](https://img.shields.io/badge/OS-Ubuntu-blue?style=flat-square&logo=ubuntu) ![Windows](https://img.shields.io/badge/OS-Win10-blue?style=flat-square&logo=windows)
 
-![Python](https://img.shields.io/badge/Code-Python-yellow?style=flat-square&logo=python) ![Lua](https://img.shields.io/badge/Code-Lua-yellow?style=flat-square&logo=lua) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-yellow?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/Code-Java-yellow?style=flat-square&logo=java) ![SQL](https://img.shields.io/badge/Code-MSSQL-yellow?style=flat-square&logo=Microsoft-SQL-Server) ![MySQL](https://img.shields.io/badge/Code-MySQL-yellow?style=flat-square&logo=MySQL)
+Preferred Editor:
 
-![Git](https://img.shields.io/badge/Tools-Git-yellow?style=flat-square&logo=git) ![Github](https://img.shields.io/badge/Tools-Github-yellow?style=flat-square&logo=github) ![Xampp](https://img.shields.io/badge/Tools-XAMPP-yellow?style=flat-square&logo=xampp) ![Trello](https://img.shields.io/badge/Tools-trello-yellow?style=flat-square&logo=trello)
+![VSC](https://img.shields.io/badge/Editor-VSC-blue?style=flat-square&logo=visual-studio-code) ![Azure](https://img.shields.io/badge/Editor-Azure-blue?style=flat-square&logo=microsoft-azure)
 
-<br />
+Languages:
+
+![Python](https://img.shields.io/badge/Code-Python-blue?style=flat-square&logo=python) ![Lua](https://img.shields.io/badge/Code-Lua-blue?style=flat-square&logo=lua) ![JavaScript](https://img.shields.io/badge/Code-JavaScript-blue?style=flat-square&logo=javascript) ![Java](https://img.shields.io/badge/Code-Java-blue?style=flat-square&logo=java) ![SQL](https://img.shields.io/badge/Code-SQL-blue?style=flat-square&logo=Microsoft-SQL-Server) ![C#](https://img.shields.io/badge/Code-CSharp-blue?style=flat-square&logo=c-sharp) ![C++](https://img.shields.io/badge/Code-C++-blue?style=flat-square&logo=cplusplus)
+
+Frameworks:
+
+![Git](https://img.shields.io/badge/Tool-Git-blue?style=flat-square&logo=git) ![Github](https://img.shields.io/badge/Tool-Github-blue?style=flat-square&logo=github) ![Xampp](https://img.shields.io/badge/Tool-XAMPP-blue?style=flat-square&logo=xampp) ![Trello](https://img.shields.io/badge/Tool-Trello-blue?style=flat-square&logo=trello) ![MySQL](https://img.shields.io/badge/Tool-MySQL-blue?style=flat-square&logo=MySQL) ![SQLite](https://img.shields.io/badge/Tool-SQLite-blue?style=flat-square&logo=SQLite) ![Docker](https://img.shields.io/badge/Tool-Docker-blue?style=flat-square&logo=Docker) ![Vagrant](https://img.shields.io/badge/Tool-Vagrant-blue?style=flat-square&logo=Vagrant) ![Terraform](https://img.shields.io/badge/Tool-Terraform-blue?style=flat-square&logo=Terraform) ![Packer](https://img.shields.io/badge/Tool-Packer-blue?style=flat-square&logo=terraform) ![Ansible](https://img.shields.io/badge/Tool-Ansible-blue?style=flat-square&logo=Ansible) ![Jenkins](https://img.shields.io/badge/Tool-Jenkins-blue?style=flat-square&logo=Jenkins) ![Flask](https://img.shields.io/badge/Tool-Flask-blue?style=flat-square&logo=Flask) ![AWS](https://img.shields.io/badge/Tool-AWS-blue?style=flat-square&logo=amazon-aws)
+
+</br>
 
 ## Stats
 
