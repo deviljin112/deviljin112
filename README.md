@@ -7,7 +7,7 @@ Little bit about me:
 
 - I'm a coding hobbist
 - Over 6 years of coding experience
-- Python DevOps Engineer @ Sparta Global
+- Python DevSecOps Engineer @ Sparta Global
 - Business Management Graduate
 - Ex [ESX](https://github.com/esx-framework) Developer
 
