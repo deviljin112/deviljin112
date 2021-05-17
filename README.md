@@ -9,7 +9,7 @@ Little bit about me:
 - Over 6 years of coding experience
 - Python DevSecOps Engineer @ Sparta Global
 - Business Management Graduate
-- Ex [ESX](https://github.com/esx-framework) Developer
+- [ESX](https://github.com/esx-framework) Developer
 
 </br>
 
