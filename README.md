@@ -6,7 +6,7 @@ Hi I'm Hubert, also known as D3v or Deviljin112.
 Little bit about me:
 
 - I'm a coding hobbist
-- Over 6 years of coding experience
+- Over 10 years of coding experience
 - Python DevSecOps Engineer @ Sparta Global
 - Business Management Graduate
 - [ESX](https://github.com/esx-framework) Developer
