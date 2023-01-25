@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hubert aka D3v</h1>
 <p align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=29CFDC&center=true&vCenter=true&width=500&height=100&lines=Full-stack+Software+Engineer;Business+Management+Graduate" alt="welcome" /> </p>
 
-<p align="center"> <img src="https://widget.realdeveloper.pro/api/top?stack=JavaScript,Python,React" alt="top3" /> </p>
+<p align="center"> <img src="https://widget.realdeveloper.pro/api/top?stack=TypeScript,Python,React" alt="top3" /> </p>
 
-- 🌱 I’m currently learning **Flutter, Firebase, Electron**
+- 🌱 I’m currently learning and working with **Flutter, Firebase, NextJS, Tailwind**
 
 - 👨‍💻 See my work at **[https://github.com/deviljin112](https://github.com/deviljin112)**
 
@@ -11,7 +11,9 @@
 
 - 📫 Email me at **hubert.swic@gmail.com**
 
-- ⚡ Fun fact **I've spent over 10 years on open-source projects before I got a job in programming.**
+- ⚡ Fun fact #1 **I've spent over 10 years on open-source projects before I got a job in programming.**
+
+- ⚡ Fun fact #2 **I'm a certified DevOps Engineer, and a certified CMI Level 5 in Management and Leadership.**
 
 - 💬 Ask me about **Anything, I'm always happy to help! :)**
 
